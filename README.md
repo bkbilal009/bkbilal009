@@ -18,5 +18,5 @@ Hi , My name is Muhammad Bilal, and I am currently a student of FSC in ICS. Alon
 
 <h1>Connect with me</h1>
 <a href="https://github.com/bkbilal009">
-  <img height="auto" width="100%" src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin">
+  <img height="10%" width="10%" src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin">
 </a>
