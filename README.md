@@ -12,8 +12,7 @@ Hi , My name is Muhammad Bilal, and I am currently a student of FSC in ICS. Alon
 
 <h1>My Skills Sets</h1>
 
-<img height="10%" width="10%" src="https://tse1.mm.bing.net/th/id/OIP.EulhF4lhI-4zkYnUZTr82AAAAA?pid=Api&P=0&h=220">
-<img height="10%" width="10%" src="https://skills.syvixor.com/api/icons?perline=15&i=css3">
+<img height="10%" width="10%" src="https://tse1.mm.bing.net/th/id/OIP.EulhF4lhI-4zkYnUZTr82AAAAA?pid=Api&P=0&h=220"><img height="10%" width="10%" src="https://skills.syvixor.com/api/icons?perline=15&i=css3">
 
 
 <h1>Connect with me</h1>
