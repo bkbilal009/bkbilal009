@@ -4,6 +4,9 @@
 
 
 
-## Hi there . I am Muhammad Bilal👋
+## Hi there . I am Muhammad Bilal
 
+<h1>Introduction</h1>
+
+Hi , My name is Muhammad Bilal, and I am currently a student of FSC in ICS. Alongside my studies, I am actively working in the fields of web development and Artificial Intelligence. I also have a keen interest in Data Structures and Algorithms (DSA), which I continue to explore to strengthen my problem-solving and programming skills.
 
