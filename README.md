@@ -10,6 +10,6 @@
 
 Hi , My name is Muhammad Bilal, and I am currently a student of FSC in ICS. Alongside my studies, I am actively working in the fields of web development and Artificial Intelligence. I also have a keen interest in Data Structures and Algorithms (DSA), which I continue to explore to strengthen my problem-solving and programming skills.
 
-#Skills Sets 
+<h1>My Skills Sets</h1>
 
 <img height="10%" width="10%" src="https://tse1.mm.bing.net/th/id/OIP.EulhF4lhI-4zkYnUZTr82AAAAA?pid=Api&P=0&h=220">
