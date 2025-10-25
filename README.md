@@ -26,3 +26,11 @@ Hi , My name is Muhammad Bilal, and I am currently a student of FSC in ICS. Alon
 # 🏆 My Achievements
 1. I am participitate in Hachathons
    - ai participitant
+<a href="mailto:danishdev555@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-mail-D14836?style=flat&logo=Gmail&logoColor=white" alt="danishdev555" height="40" width="100" /></a>
+</p>
+
+  <h2><i>⚙️ GitHub Analytics</i></h2>
+<h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/bkbilal009">
