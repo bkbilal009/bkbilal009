@@ -32,8 +32,9 @@
 **Fully Funded Scholarship Prep** | **Problem Solving** | **Next.js** | **AI / ML / Data Science**
 
 ### 🏆 Achievements & Hackathons  
-- 🏅 **CALICO’25 Winner**  
-- 🏅 **Haker Cup Winner**
+- 🏅 **CALICO’25** – Participant  
+- 🏅 **Haker Cup** – Participant  
+- 🏅 **MIT LabLab.ai Hackathon** – Participant
 
 ---
 
@@ -54,7 +55,9 @@ Software Engineering, AI/ML, Problem Solving, Web Apps
 
 <br />
 
-
+<a align="center" href="#">
+  <img src="https://api.daily.dev/devcards/v2/pcAeNFBsj62uoeHZIzBME.png?type=wide&r=1k7" width="652" alt="Dev Card" />
+</a>
 
 <hr />
 
