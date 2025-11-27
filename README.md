@@ -1,11 +1,12 @@
 <!-- =================================== -->
-<!-- 🎨 Upgraded Stylish GitHub README for Muhammad Bilal -->
+<!-- 🌟 Ultra-Stylish Professional GitHub README for Muhammad Bilal -->
 <!-- =================================== -->
 
+<!-- Header GIF + Animated Typing Intro -->
 <img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="350" width="1080">
 
 <h1 align="center">       
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Bilal!;Aspiring+Software+&+AI/ML+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Bilal!;Aspiring+Software+&+AI/ML+Engineer" />
 </h1>                                    
 
 <h3 align="center" style="color:#00f2ff;">Building Modern Web Apps & AI/ML Innovations 🚀</h3>
@@ -53,8 +54,9 @@ Software Engineering, AI/ML, Problem Solving, Web Apps
 
 <br />
 
----
-
+<a align="center" href="#">
+  <img src="https://api.daily.dev/devcards/v2/pcAeNFBsj62uoeHZIzBME.png?type=wide&r=1k7" width="652" alt="Dev Card" />
+</a>
 
 <hr />
 
