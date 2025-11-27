@@ -1,120 +1,86 @@
-<img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="350" width="1080">
+<!-- =================================== -->
+<!-- 🎨 Ultra-Stylish Professional GitHub README for Muhammad Bilal -->
+<!-- =================================== -->
 
-<h1 align="center">       
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Bilal!;" />
-</h1>                                    
+<!-- Header GIF + Animated Typing Intro -->
+<img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="300" width="100%" />
 
-<h3 align="center">Aspiring Software & AI/ML Engineer</h3>            
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Bilal!;Aspiring+Software+&+AI/ML+Engineer" />
+</h1>
 
-<p align="right">
+<h3 align="center">Building the Future with AI, Web Apps & Innovation 🚀</h3>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=bkbilal009&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<img align="right" alt="Coder GIF" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-
-<p align="left">
-  <a href="https://www.instagram.com/bk__bilal/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-blue" alt="" />
-  </a>
-</p>
+<!-- Animated Side GIF -->
+<img align="right" alt="Coding GIF" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 ---
 
-### 🔭 I’m currently working on  
-**Personal Development** | **Web Apps**
+## 🔭 Currently Working On
+- **Personal Development**
+- **Web Apps & AI/ML Projects**
 
-### 🌱 I’m currently learning  
-**Fully Funded Scholarship Prep**, **Problem Solving**, **Next.js**, **AI/ML**
+## 🌱 Learning & Preparing
+- Fully Funded Scholarships  
+- Problem Solving & Next.js  
+- AI / ML / Data Science
 
-### 🏆 Achievements  
-- **CALICO’25**  
-- **Haker Cup**
-
-### 👨‍💻 All my work is available on  
-**My GitHub:** https://github.com/bkbilal009
-
-### 💬 Ask me about  
-**Software Engineering**, **AI/ML**, **Anything I can build with Laptop + Wifi**
-
-### 📫 Reach me at  
-📨 **bilal.dev009@gmail.com**
+## 🏆 Achievements & Hackathons
+- **CALICO’25 Winner**  
+- **Haker Cup Winner**  
 
 ---
 
-<a align="center">  
-  <img src="https://leetcard.jacoblin.cool/Bkbilal?ext=heatmap" />
-</a>
-
-<br />
-
----
-
-<a align="center" href="#">
-  <img src="https://api.daily.dev/devcards/v2/pcAeNFBsj62uoeHZIzBME.png?type=wide&r=1k7" width="652" alt="Dev Card" />
-</a>
-
-<hr />
-
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-<br />
+## 💻 My Skills
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,react,typescript,nextjs,express,nodejs,firebase,mongodb,git,github,figma,tailwind,python,java" />
-    <img src="https://skillicons.dev/icons?i=vscode,postman,insomnia,ai,github" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,react,typescript,nextjs,nodejs,express,mongodb,python,git,github,tailwind,figma,ai,ml,data,sql" />
 </div>
 
-<hr/>
+---
 
-<h2 align="center">🤝🏻 Connect with Me 🤝🏻</h2>
+## 🌐 Connect with Me
+
 <p align="center">
-
-<a href="https://www.linkedin.com/in/muhammad-bilal-dev" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://web.facebook.com" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/bk__bilal/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/u/Bkbilal/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-
+  <a href="https://www.linkedin.com/in/muhammad-bilal-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/bk__bilal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://web.facebook.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/Bkbilal/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:bilal.dev009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-<hr />
+---
 
-<h2 align="center">🏆 Trophy 🏆</h2>
-<br />
-
+## 🏆 Trophies & Awards
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bkbilal009&theme=dracula" width="700" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bkbilal009&theme=dracula&margin-w=15" />
 </p>
 
-<hr />
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=bkbilal009&count_private=true&show_icons=true&theme=react&border_radius=10" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=bkbilal009&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-</p> 
-
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bkbilal009&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bkbilal009&langs_count=10&layout=compact&theme=react&border_radius=10" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bkbilal009&count_private=true&theme=react&border_radius=10" />
 </p>
 
-<hr />
+---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Connect+with+me+on+LinkedIn!;Always+ready+to+collab+:)" />
-</h2>
+## 💬 Fun & Motto
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Shoot+me+a+message+on+LinkedIn!;Let's+collaborate+on+cool+projects+!+🚀" />
+</p>
+
+---
 
