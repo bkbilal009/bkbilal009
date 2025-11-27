@@ -55,9 +55,6 @@ Software Engineering, AI/ML, Problem Solving, Web Apps
 
 ---
 
-<a align="center" href="#">
-  <img src="https://api.daily.dev/devcards/v2/pcAeNFBsj62uoeHZIzBME.png?type=wide&r=1k7" width="652" alt="Dev Card" />
-</a>
 
 <hr />
 
