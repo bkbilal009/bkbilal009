@@ -53,14 +53,7 @@ Software Engineering, AI/ML, Problem Solving, Web Apps
   <img src="https://leetcard.jacoblin.cool/Bkbilal?ext=heatmap" />
 </a>
 
----
-
-## 🔥 LeetCode Stats  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Bkbilal?theme=dark&font=Roboto&ext=contest" />
-</p>
-
----
+<br />
 
 <hr />
 
