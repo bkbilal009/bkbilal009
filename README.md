@@ -34,7 +34,8 @@
 ### 🏆 Achievements & Hackathons  
 - 🏅 **CALICO’25** – Participant  
 - 🏅 **Haker Cup** – Participant  
-- 🏅 **MIT LabLab.ai Hackathon** – Participant
+- 🏅 **MIT** - Participant
+- 🏅 **LabLab.ai Hackathon** – Participant
 
 ---
 
