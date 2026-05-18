@@ -29,13 +29,14 @@
 **Personal Development** | **Web Apps** | **AI/ML Projects**
 
 ### 🌱 Currently Learning  
-**Fully Funded Scholarship Prep** | **Problem Solving** | **Next.js** | **AI / ML / Data Science**
+**Problem Solving** | **Next.js** | **AI / ML / Data Science**
 
 ### 🏆 Achievements & Hackathons  
-- 🏅 **CALICO’25** – Participant  
-- 🏅 **Haker Cup** – Participant  
-- 🏅 **MIT** - Participant
-- 🏅 **LabLab.ai Hackathon** – Participant
+- 🏅 **3x'CALICO**  
+- 🏅 **Haker Cup** 
+- 🏅 **3x'MIT** 
+- 🏅 **4x'LabLab.ai Hackathon**
+- 🏅 **8x'Hackathon Participant**
 
 ---
 
